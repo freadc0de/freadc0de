@@ -1,2 +1,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=freadc0de&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freadc0de&layout=compact&theme=github_dark)
+
+## Support me
+[![coffee](https://files.catbox.moe/taih2x.svg)](https://coff.ee/slyph_mp4) [![donationalerts](https://files.catbox.moe/c410ko.svg)](https://www.donationalerts.com/r/slyph_mp4)
